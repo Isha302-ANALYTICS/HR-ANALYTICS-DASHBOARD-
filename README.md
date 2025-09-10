@@ -25,4 +25,5 @@ Workforce Distribution – Visual representation of employee count across depart
 Performance Metrics – Key indicators to analyze employee satisfaction and turnover rates.
 Data-Driven Decisions – Helps HR teams design better retention strategies with actionable insights.
 
-screenshot
+Screenshot
+https://github.com/Isha302-ANALYTICS/HR-ANALYTICS-DASHBOARD-/blob/main/dashboard.png
